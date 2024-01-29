@@ -5,6 +5,6 @@ import java.util.Map;
 /**
  Contract for objects that can represent {@link java.util.Map} as a string
  */
-public interface Mapper {
+public interface  Mapper {
     String map(Map<String, String> data);
 }

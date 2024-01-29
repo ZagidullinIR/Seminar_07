@@ -50,5 +50,4 @@ public final class Calculator implements Calculable {
     public void clear() {
         this.result = 0;
     }
-
 }
